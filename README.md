@@ -4,8 +4,12 @@
 <ul>
   <li>Age=15</li>
   <li>Dream=Become a programer</li>
+  <li>currently in high school</li>
+  <li>very much of a begginer in programing</li>
+  <li>acknowledgement in programing =Most part of it at the moment is (HTML) and a little bit of CSS</li>
+  
 </ul>
-
+<br>
 <h2>My current objetives</h2>
 <ul>
   <li>Buy myself a good computer</li>
