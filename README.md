@@ -1,4 +1,4 @@
-<h1>Hello</h1>
+<h1>Hello and welcome to my profile 👋</h1>
 <br>
 <p>My name is Igor Gomes dos Santos</p>
 <ul>
